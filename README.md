@@ -2,7 +2,7 @@
 
 ## Overview of Project
 
-The purpose of this analysis is to refactor code in order to allow Steve to expand the dataset and creating more efficiency.  
+This project uses VBA to refactor code written to analyze data from the stock market in Excel. The refactored code is designed to speed up processing of the dataset so that we can include larger datasets in the future.  
 
 ## Results
 
